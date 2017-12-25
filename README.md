@@ -16,5 +16,6 @@ User horizon2 = api.getUserByName("HorizonCode");
 System.out.println("horizon pp: " + horizon.getPP());
 System.out.println("horizon2 pp: " + horizon2.getPP());
 }
-
 ```
+
+#More like Beatmaps or Scorelisting soon
